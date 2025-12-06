@@ -49,11 +49,11 @@ The script provides detailed system performance insights, including:
 
 ## 🚀 Getting Started
 
-1. Clone this repository:
+1. **Clone this repository:**
 
   ```bash
   git clone https://github.com/KOvacevNS/DevOps-RoadMap.git
-  ```
+  ```bash
   cd server-performance-stats
   ```
 2.  **Make the script executable**
@@ -62,7 +62,8 @@ The script provides detailed system performance insights, including:
   chmod +x server-stats.sh
   ```
 3. **Execute the script**
-  ```
-  ./server-stats.sh
-  ```
+   
+   ```bash
+   ./server-stats.sh
+   ```
 This is part of [roadmap.sh](https://roadmap.sh/projects/server-stats) DevOps projects.
