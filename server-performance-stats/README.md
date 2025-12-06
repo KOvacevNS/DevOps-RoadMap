@@ -53,6 +53,7 @@ The script provides detailed system performance insights, including:
 
   ```bash
   git clone https://github.com/KOvacevNS/DevOps-RoadMap.git
+  ```
   ```bash
   cd server-performance-stats
   ```
@@ -63,7 +64,7 @@ The script provides detailed system performance insights, including:
   ```
 3. **Execute the script**
    
-   ```bash
-   ./server-stats.sh
-   ```
+  ```bash
+  ./server-stats.sh
+  ```
 This is part of [roadmap.sh](https://roadmap.sh/projects/server-stats) DevOps projects.
