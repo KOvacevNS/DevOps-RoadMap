@@ -30,7 +30,7 @@ A collection of hands-on DevOps practice projects based on the official roadmap.
 
 ## Roadmap.sh URLs
 
-1. [**Server Performance Stats**](https://https://roadmap.sh/projects/server-stats) ✅ 
+1. [**Server Performance Stats**](https://https://roadmap.sh/projects/server-stats)
 2. **Log Archive Tool**  
 3. **Nginx Log Analyser**  
 4. **GitHub Pages Deployment**  
