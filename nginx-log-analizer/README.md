@@ -59,7 +59,7 @@ All available by default on any Linux system or WSL on Windows.
 
 Clone your repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/KOvacevNS/DevOps-RoadMap/tree/main
 cd nginx-log-analyzer
 ```
 
