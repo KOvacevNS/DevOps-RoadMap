@@ -14,6 +14,7 @@ The script compresses log files from a given directory into a timestamped `tar.g
 
   ```text
   logs_archive_YYYYMMDD_HHMMSS.tar.gz
+  ```
 
 Deletes only the files that were actually archived
 Logs each archive operation to archive.log
