@@ -6,7 +6,7 @@ A collection of hands-on DevOps practice projects based on the official roadmap.
 
 1. [**Server Performance Stats**](https://github.com/KOvacevNS/DevOps-RoadMap/tree/main/server-performance-stats) ✅ 
 2. [**Log Archive Tool**](https://github.com/KOvacevNS/DevOps-RoadMap/tree/main/log-archive-tool) ✅
-3. **Nginx Log Analyser**  
+3. [**Nginx Log Analyser**](https://github.com/KOvacevNS/DevOps-RoadMap/tree/main/nginx-log-analizer) ✅
 4. **GitHub Pages Deployment**  
 5. **SSH Remote Server Setup**  
 6. **Static Site Server**  
@@ -32,7 +32,7 @@ A collection of hands-on DevOps practice projects based on the official roadmap.
 
 1. [**Server Performance Stats**](https://https://roadmap.sh/projects/server-stats)
 2. [**Log Archive Tool**](https://roadmap.sh/projects/log-archive-tool)
-3. **Nginx Log Analyser**  
+3. [**Nginx Log Analyser**](https://roadmap.sh/projects/nginx-log-analyser)
 4. **GitHub Pages Deployment**  
 5. **SSH Remote Server Setup**  
 6. **Static Site Server**  
