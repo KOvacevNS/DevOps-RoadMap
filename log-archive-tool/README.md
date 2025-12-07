@@ -16,10 +16,10 @@ The script compresses log files from a given directory into a timestamped `tar.g
   logs_archive_YYYYMMDD_HHMMSS.tar.gz
   ```
 
-Deletes only the files that were actually archived
-Logs each archive operation to archive.log
-Rotates old archives: removes .tar.gz archives older than 180 days (≈ 6 months)
-Uses safe Bash options (set -e, set -u, set -o pipefail)
+  -Deletes only the files that were actually archived
+  -Logs each archive operation to archive.log
+  -Rotates old archives: removes .tar.gz archives older than 180 days (≈ 6 months)
+  -Uses safe Bash options (set -e, set -u, set -o pipefail)
 
 ## Requirements
 
