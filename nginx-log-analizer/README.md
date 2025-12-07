@@ -75,8 +75,10 @@ Run the script and pass your log file as an argument:
 ./log-analyzer.sh access.log
 ```
 ## Color Legend
+```text
 Status	  Meaning	            Color
 404	      Not Found	          🔴 Red
 500	      Server Error	      🔴 Red
 304	      Not Modified	      🟡 Yellow
 Other	    Success / Redirect	🟢 Green
+```
